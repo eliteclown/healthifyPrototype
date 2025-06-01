@@ -1,4 +1,9 @@
 package com.healthify.version.repositories;
 
-public class MealLogItemRepository {
+import com.healthify.version.entities.MealLogItemEntity;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface MealLogItemRepository extends JpaRepository<MealLogItemEntity,Long> {
 }
