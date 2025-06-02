@@ -37,4 +37,7 @@ public class UserEntity {
     private List<MealLogEntity> mealLogEntities;
 
 
+    public void setId(Long userId) {
+        this.id=userId;
+    }
 }
