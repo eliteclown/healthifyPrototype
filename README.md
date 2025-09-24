@@ -52,8 +52,3 @@ Contributions are welcome! To contribute:
 3. Commit your changes (`git commit -m 'Add new feature'`)
 4. Push your branch (`git push origin feature-name`)
 5. Open a pull request
-
-## License
-[Specify your project's license, e.g., MIT]
-
----
