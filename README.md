@@ -40,7 +40,3 @@
    # Example for Node.js
    npm start
    ```
-
-## Usage
-- Log your daily meals and track calories.
-- View your progress on
