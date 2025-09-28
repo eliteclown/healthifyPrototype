@@ -32,11 +32,4 @@
    # Example for Node.js
    npm install
    ```
-3. Run the application:
-   ```bash
-   # Example for Python
-   python app.py
-
-   # Example for Node.js
-   npm start
    ```
