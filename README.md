@@ -24,12 +24,4 @@
    git clone https://github.com/eliteclown/healthifyPrototype.git
    cd healthifyPrototype
    ```
-2. Install dependencies:
-   ```bash
-   # Example for Python
-   pip install -r requirements.txt
 
-   # Example for Node.js
-   npm install
-   ```
-   ```
