@@ -18,10 +18,4 @@
 - [List required software, e.g., Python 3.x, Node.js, etc.]
 - [List any dependencies or package managers, e.g., pip, npm]
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/eliteclown/healthifyPrototype.git
-   cd healthifyPrototype
-   ```
 
