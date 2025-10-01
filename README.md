@@ -1,4 +1,4 @@
-# healthifyPrototype
+i# healthifyPrototype
 
 **healthifyPrototype** is an end-to-end solution for tracking calories. This application aims to help users monitor their daily intake and maintain healthy habits.
 
@@ -14,8 +14,5 @@
 
 ## Getting Started
 
-### Prerequisites
-- [List required software, e.g., Python 3.x, Node.js, etc.]
-- [List any dependencies or package managers, e.g., pip, npm]
 
 
