@@ -12,7 +12,6 @@ i# healthifyPrototype
 - [Specify frontend technology, if any, e.g., React, Next.js, etc.]
 - [Database, if applicable]
 
-## Getting Started
 
 
 
